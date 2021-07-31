@@ -1,0 +1,10 @@
+
+img{
+    display: flex;
+    max-width: 25%;
+    max-height: 30%;
+}
+li{
+    list-style-type: none
+    
+}
